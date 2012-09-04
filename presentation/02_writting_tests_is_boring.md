@@ -2,7 +2,7 @@
 
 # Writting tests is *boring*
 
-!SLIDE
+!SLIDE bullets incremental transition=shuffle
 
 # Writting tests is *boring* IF
 
