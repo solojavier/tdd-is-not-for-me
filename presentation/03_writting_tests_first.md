@@ -2,7 +2,7 @@
 
 # Writting test first
 
-!SLIDE bullets incremental transition=zoom
+!SLIDE bullets small incremental transition=zoom
 
 # The three steps
 
@@ -10,4 +10,4 @@
 * You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.
 * You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
 
-[Source](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd

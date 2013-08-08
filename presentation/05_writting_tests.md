@@ -8,5 +8,5 @@
 
 * It's hard (requires discipline)
 * It's not enough
-* It's better with the right tools: Spork, FactoryGirl, SimpleCov...
-* It's not for me, it's for everyone. 
+* Requires different gears
+* Avoid coupling 
